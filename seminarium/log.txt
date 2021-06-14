@@ -1,0 +1,4 @@
+milk	10.0
+cocacola	15.0
+cigarette	58.0
+cocacola	15.0
